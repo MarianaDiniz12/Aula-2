@@ -1,0 +1,20 @@
+p{
+color: #FA6B21;
+font-family: arial;
+}
+h2{
+color: #FA219F
+}
+#maisimportante {
+color: #49DE0D;
+}
+Body{
+	margin:10px;
+	padding:10px;
+	background-color: #EEFA91;
+}
+h1{
+	font-size:50px;
+	border: 2px solid black;
+	padding:35px;
+}
